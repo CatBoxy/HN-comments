@@ -1,0 +1,19 @@
+/* .subtext > a:not(.hnuser, .clicky) {
+    background-color: blue !important;
+}
+
+.subtext > a:not(.hnuser, .clicky) {
+    background-color: blue !important;
+} */
+
+.isDisplayed {
+    width: 380px;
+    background-color: #dddddd;
+    padding: 20px;
+    z-index: 100;
+    position: fixed;
+    top: 5%;
+    left: 60%;
+    color: black;
+    
+}
